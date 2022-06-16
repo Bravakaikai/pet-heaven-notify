@@ -1,0 +1,4 @@
+server:
+  port: 6543
+line:
+  access_token: lineAccessToken
