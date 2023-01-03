@@ -2,7 +2,7 @@
 
 This is a message queue subscriber.
 
-While user buy or sell any food in shopping mall, user will receive notify from LINE chatbot.
+While user buy or sell food in shopping mall, user will receive notify from LINE chatbot.
 
 * Frontend: Vue 3 (Composition API) > [GitHub link](https://github.com/Bravakaikai/pet-heaven-web)
 * Backend: Kotlin > [GitHub link](https://github.com/Bravakaikai/pet-heaven-api)
